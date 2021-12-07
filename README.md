@@ -2,7 +2,7 @@
 
 <br>
 
-This is a review app developed using JavaScrip, HTML and CSS
+This app is developed using JavaScript, CSS nad HTML. It displays reviews of employees and you can see all of them one by one using arrow heads or, get a random review using the "Suprise Me" button.
 
 <br>
 
